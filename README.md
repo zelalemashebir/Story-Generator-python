@@ -1,2 +1,2 @@
-"# Story-Generator-python" 
-"# Story-Generator-python" 
+"# Simple python Codes" 
+"# " 
